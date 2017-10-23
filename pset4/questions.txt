@@ -1,0 +1,22 @@
+0.  BMP:16M; GIF:256; JPEG:16M; PNG:256T;
+1.  GIF
+2.  All original data can be recovered when decompressing a file that was compressed using lossless compression.
+    Lossy compression means that not all data can be recovered
+3.  JPEG and GIF
+4.  First, the system modifies the filename’s first character in the file’s directory entry to signal that the file
+    has been deleted and that the directory entry can be recycled. Second, the system moves all of the file’s FAT clusters
+    to the hard drive’s list of free clusters. 
+5.  Sanitize the drive: Destroy the drive, degauss the drive or overwrite the drives data.
+6.  TODO
+7.  TODO
+8.  TODO
+9.  TODO
+10. TODO
+11. TODO
+12. TODO
+13. TODO
+14. TODO
+15. TODO
+16. TODO
+17. TODO
+18. TODO
